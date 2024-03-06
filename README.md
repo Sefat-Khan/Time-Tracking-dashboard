@@ -1,5 +1,8 @@
 Time Tracking Dashboard
 
+![Uploading desktop-design.jpg…]()
+
+
 This project is a responsive time tracking dashboard developed by Sefat Khan as a solution to the challenge presented by Frontend Mentor. The project features a sleek and user-friendly interface for tracking daily, weekly, and monthly activities.
 
 Table of Contents
