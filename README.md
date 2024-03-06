@@ -45,7 +45,7 @@ How to Use
 
 1. Clone the repository: git clone [https://github.com/Sefat-Khan/time-tracking-dashboard.git](https://github.com/Sefat-Khan/Time-Tracking-dashboard.git)
 2. Open the index.html file in your web browser.
-3. 
+
 Credits
 
 . Challenge by Frontend Mentor
